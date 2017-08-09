@@ -15,7 +15,7 @@ Bachelor of Science in Informatics with concentration in Computer Science, Decem
 Technical Skills
 ================
 :Operating Systems: OS X, Linux
-:Languages: Strong skills in Python, intermediate knowledge of bash, Ansible
+:Languages: Strong skills in Python, intermediate knowledge of bash, Ansible, learning Go and Rust
 :Database Systems: PostgreSQL
 :Project Tools: git, Jira, GitHub, Gerrit
 
