@@ -7,8 +7,6 @@ draft: false
 date: 2017-08-02
 ---
 
-# What I Look For In A Company
-
 Hopefully, this page will help you get to know me a little better, and help us both judge if your company and I would be a good fit.
 
 First and foremost, I seek to work at places and projects where I am a **force multiplier**: working on things that make others more effective or efficient. I want to help others work better. I feel most comfortable working on tools that help other developers, but this isn't a hard requirement.
