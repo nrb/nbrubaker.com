@@ -19,7 +19,7 @@ Similarly, companies that **try to reduce tech debt** are awesome. Sometimes thi
 
 Personally, I like **variety** in what I work on, but **not frequent context switching**. I work better if I change projects on the scale of weeks or days as opposed to changing projects every few hours. By the same token, I tend to get bored if I work on a single project for too long.
 
-You can find my resume in [PDF](../resume.pdf) and [text](../resume.txt) formats. I also have some [public projects](https://github.com/nrb/) on GitHub.
+You can find my resume in [PDF](../resume.pdf) and [text](../resume.txt) formats. I have some [public projects](https://github.com/nrb/) on GitHub, and you can [see my activity with OpenStack](https://review.openstack.org/#/q/owner:%22Nolan+Brubaker+%253Cnolan.brubaker%2540rackspace.com%253E%22++or+reviewer:%22Nolan+Brubaker+%253Cnolan.brubaker%2540rackspace.com%253E%22)
 
 I'm available via [email](mailto:nolan@nbrubaker.com).
 
