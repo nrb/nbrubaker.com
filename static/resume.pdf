@@ -32,41 +32,55 @@ endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
->> /Border [ 0 0 0 ] /Rect [ 411.0176 308.0236 491.6076 320.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://www.heptio.com)
+>> /Border [ 0 0 0 ] /Rect [ 235.4323 341.0236 264.3323 353.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/rcbops/rpc-openstack)
->> /Border [ 0 0 0 ] /Rect [ 196.1923 296.0236 258.9923 308.0236 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/heptio/ark)
+>> /Border [ 0 0 0 ] /Rect [ 335.1423 320.0236 350.1423 332.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
->> /Border [ 0 0 0 ] /Rect [ 314.5559 248.0236 395.1459 260.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 411.0176 257.0236 491.6076 269.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/rcbops/rpc-openstack)
->> /Border [ 0 0 0 ] /Rect [ 397.9259 248.0236 460.7259 260.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 196.1923 245.0236 258.9923 257.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 10 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
->> /Border [ 0 0 0 ] /Rect [ 361.2523 188.0236 441.8423 200.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 314.5559 197.0236 395.1459 209.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 11 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R ] /Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/rcbops/rpc-openstack)
+>> /Border [ 0 0 0 ] /Rect [ 397.9259 197.0236 460.7259 209.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/openstack/openstack-ansible)
+>> /Border [ 0 0 0 ] /Rect [ 361.2523 137.0236 441.8423 149.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -74,79 +88,79 @@ endobj
 >> /Type /Page
 >>
 endobj
-12 0 obj
+14 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.sixfeetup.com)
 >> /Border [ 0 0 0 ] /Rect [ 230.3078 555.0236 307.3861 567.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-13 0 obj
+15 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://eldarion.com)
 >> /Border [ 0 0 0 ] /Rect [ 440.1166 420.0236 476.7966 432.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-14 0 obj
+16 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.redpost.com)
 >> /Border [ 0 0 0 ] /Rect [ 482.5146 420.0236 523.8027 432.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-15 0 obj
+17 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.carbonblack.com/)
 >> /Border [ 0 0 0 ] /Rect [ 153.7323 408.0236 213.7523 420.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-16 0 obj
+18 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://crc.nd.edu)
 >> /Border [ 0 0 0 ] /Rect [ 264.2444 327.0236 405.8965 339.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-17 0 obj
+19 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://flask.pocoo.org)
 >> /Border [ 0 0 0 ] /Rect [ 209.5536 282.0236 233.4436 294.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-18 0 obj
+20 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://djangoproject.com)
 >> /Border [ 0 0 0 ] /Rect [ 310.9961 252.0236 342.6761 264.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-19 0 obj
+21 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.celeryproject.org)
 >> /Border [ 0 0 0 ] /Rect [ 365.2616 252.0236 394.1516 264.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-20 0 obj
+22 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.youtube.com/watch?v=WQxkCQndoZc)
 >> /Border [ 0 0 0 ] /Rect [ 420.3772 168.0236 479.8372 180.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-21 0 obj
+23 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.mapletronics.com)
 >> /Border [ 0 0 0 ] /Rect [ 267.4187 114.0236 381.2575 126.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
-22 0 obj
+24 0 obj
 <<
-/Annots [ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R ] /Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Annots [ 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 33 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -154,55 +168,55 @@ endobj
 >> /Type /Page
 >>
 endobj
-23 0 obj
-<<
-/Outlines 25 0 R /PageLabels 34 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
->>
-endobj
-24 0 obj
-<<
-/Author () /CreationDate (D:20170729165827+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20170729165827+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
-  /Subject (\(unspecified\)) /Title (Nolan Brubaker) /Trapped /False
->>
-endobj
 25 0 obj
 <<
-/Count 5 /First 26 0 R /Last 30 0 R /Type /Outlines
+/Outlines 27 0 R /PageLabels 36 0 R /PageMode /UseNone /Pages 33 0 R /Type /Catalog
 >>
 endobj
 26 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 689.0236 0 ] /Next 27 0 R /Parent 25 0 R /Title (Goal)
+/Author () /CreationDate (D:20180118142847+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180118142847+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Nolan Brubaker) /Trapped /False
 >>
 endobj
 27 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 638.0236 0 ] /Next 28 0 R /Parent 25 0 R /Prev 26 0 R /Title (Education)
+/Count 5 /First 28 0 R /Last 32 0 R /Type /Outlines
 >>
 endobj
 28 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 575.0236 0 ] /Next 29 0 R /Parent 25 0 R /Prev 27 0 R /Title (Technical Skills)
+/Dest [ 13 0 R /XYZ 62.69291 689.0236 0 ] /Next 29 0 R /Parent 27 0 R /Title (Goal)
 >>
 endobj
 29 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 446.0236 0 ] /Next 30 0 R /Parent 25 0 R /Prev 28 0 R /Title (Presentations)
+/Dest [ 13 0 R /XYZ 62.69291 638.0236 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (Education)
 >>
 endobj
 30 0 obj
 <<
-/Dest [ 11 0 R /XYZ 62.69291 386.0236 0 ] /Parent 25 0 R /Prev 29 0 R /Title (Positions Held)
+/Dest [ 13 0 R /XYZ 62.69291 575.0236 0 ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (Technical Skills)
 >>
 endobj
 31 0 obj
 <<
-/Count 2 /Kids [ 11 0 R 22 0 R ] /Type /Pages
+/Dest [ 13 0 R /XYZ 62.69291 446.0236 0 ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (Presentations)
 >>
 endobj
 32 0 obj
 <<
-/Length 6411
+/Dest [ 13 0 R /XYZ 62.69291 386.0236 0 ] /Parent 27 0 R /Prev 31 0 R /Title (Positions Held)
+>>
+endobj
+33 0 obj
+<<
+/Count 2 /Kids [ 13 0 R 24 0 R ] /Type /Pages
+>>
+endobj
+34 0 obj
+<<
+/Length 7531
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -413,14 +427,87 @@ q
 1 0 0 1 62.69291 353.0236 cm
 Q
 q
-1 0 0 1 62.69291 158.0236 cm
+1 0 0 1 62.69291 302.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.01937 0 Td (2017-present:) Tj T* -8.01937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (System Engineer, ) Tj 0 0 .501961 rg (Heptio) Tj 0 0 0 rg ( Developing tools for managing Kubernetes clusters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 33 cm
+Q
+q
+1 0 0 1 91.03937 21 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Implemented end-to-end testing for ) Tj 0 0 .501961 rg (Ark) Tj 0 0 0 rg ( on live Amazon Web Services clusters) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 15 cm
+Q
+q
+1 0 0 1 91.03937 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Designed Ark conflict handler plugin system) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 107.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 183 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 8.01937 0 Td (2014-present:) Tj T* -8.01937 0 Td ET
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 21.89937 0 Td (2014-2017:) Tj T* -21.89937 0 Td ET
 Q
 Q
 q
@@ -568,7 +655,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .397822 Tw (Implemented unit and integration testing for existing Python dynamic inventory) Tj T* 0 Tw (production code \(ongoing\).) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .397822 Tw (Implemented unit and integration testing for existing Python dynamic inventory) Tj T* 0 Tw (production code) Tj T* ET
 Q
 Q
 q
@@ -583,7 +670,7 @@ Q
  
 endstream
 endobj
-33 0 obj
+35 0 obj
 <<
 /Length 10696
 >>
@@ -1203,23 +1290,23 @@ Q
  
 endstream
 endobj
-34 0 obj
+36 0 obj
 <<
-/Nums [ 0 35 0 R 1 36 0 R ]
+/Nums [ 0 37 0 R 1 38 0 R ]
 >>
 endobj
-35 0 obj
+37 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-36 0 obj
+38 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 37
+0 39
 0000000000 65535 f 
 0000000073 00000 n 
 0000000114 00000 n 
@@ -1227,46 +1314,48 @@ xref
 0000000333 00000 n 
 0000000511 00000 n 
 0000000685 00000 n 
-0000000883 00000 n 
-0000001074 00000 n 
-0000001272 00000 n 
-0000001463 00000 n 
-0000001662 00000 n 
-0000001923 00000 n 
-0000002100 00000 n 
-0000002272 00000 n 
-0000002447 00000 n 
-0000002627 00000 n 
-0000002797 00000 n 
-0000002972 00000 n 
-0000003149 00000 n 
-0000003330 00000 n 
-0000003525 00000 n 
-0000003705 00000 n 
-0000003993 00000 n 
-0000004099 00000 n 
-0000004371 00000 n 
-0000004445 00000 n 
-0000004551 00000 n 
-0000004675 00000 n 
-0000004806 00000 n 
-0000004934 00000 n 
-0000005050 00000 n 
-0000005118 00000 n 
-0000011581 00000 n 
-0000022330 00000 n 
-0000022380 00000 n 
-0000022414 00000 n 
+0000000859 00000 n 
+0000001040 00000 n 
+0000001238 00000 n 
+0000001429 00000 n 
+0000001628 00000 n 
+0000001820 00000 n 
+0000002019 00000 n 
+0000002294 00000 n 
+0000002471 00000 n 
+0000002643 00000 n 
+0000002818 00000 n 
+0000002998 00000 n 
+0000003168 00000 n 
+0000003343 00000 n 
+0000003520 00000 n 
+0000003701 00000 n 
+0000003896 00000 n 
+0000004076 00000 n 
+0000004364 00000 n 
+0000004470 00000 n 
+0000004742 00000 n 
+0000004816 00000 n 
+0000004922 00000 n 
+0000005046 00000 n 
+0000005177 00000 n 
+0000005305 00000 n 
+0000005421 00000 n 
+0000005489 00000 n 
+0000013072 00000 n 
+0000023821 00000 n 
+0000023871 00000 n 
+0000023905 00000 n 
 trailer
 <<
 /ID 
-[<162a3d3d673d640e922456f8cfad6630><162a3d3d673d640e922456f8cfad6630>]
+[<e8aaa3c6dc5cbfe0a5d5dade9bc104af><e8aaa3c6dc5cbfe0a5d5dade9bc104af>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
-/Info 24 0 R
-/Root 23 0 R
-/Size 37
+/Info 26 0 R
+/Root 25 0 R
+/Size 39
 >>
 startxref
-22448
+23939
 %%EOF
