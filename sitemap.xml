@@ -3,24 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://nbrubaker.com/</loc>
+    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://nbrubaker.com/hireme/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nbrubaker.com/categories/</loc>
-    <priority>0</priority>
+    <loc>http://nbrubaker.com/wishlists/2019/</loc>
   </url>
   
   <url>
-    <loc>http://nbrubaker.com/</loc>
-    <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://nbrubaker.com/categories/</loc>
   </url>
   
   <url>
     <loc>http://nbrubaker.com/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://nbrubaker.com/wishlists/</loc>
   </url>
   
 </urlset>
