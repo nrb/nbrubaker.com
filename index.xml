@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nolan Brubaker, Software Developer</title>
@@ -6,10 +6,23 @@
     <description>Recent content on Nolan Brubaker, Software Developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://nbrubaker.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Playing Codenames remotely</title>
+      <link>http://nbrubaker.com/horsepaste/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://nbrubaker.com/horsepaste/</guid>
+      <description>Download the Zoom client using the first link at the top.
+Join the meeting by clicking a Zoom meeting link!
+To play, go to https://www.horsepaste.com
+If you&amp;rsquo;re not sure how to play, watch the rules explanation.
+Some etiquette  If you&amp;rsquo;re joining, please devote most of your attention to the call Try to use a headset - it makes it much easier for you to hear others, and for others to hear you  </description>
+    </item>
     
     <item>
       <title>What I Look For In A Company</title>
@@ -19,15 +32,6 @@
       <guid>http://nbrubaker.com/hireme/</guid>
       <description>Hopefully, this page will help you get to know me a little better, and help us both judge if your company and I would be a good fit.
 First and foremost, I seek to work at places and projects where I am a force multiplier: working on things that make others more effective or efficient. I want to help others work better. I feel most comfortable working on tools that help other developers, but this isn&amp;rsquo;t a hard requirement.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://nbrubaker.com/wishlists/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://nbrubaker.com/wishlists/2019/</guid>
-      <description></description>
     </item>
     
   </channel>
