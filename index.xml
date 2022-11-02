@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://nbrubaker.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Why I Joined Red Hat</title>
+      <link>http://nbrubaker.com/why-red-hat/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://nbrubaker.com/why-red-hat/</guid>
+      <description>After getting laid off [LINK], I was on the job hunt. Honestly, I wasn&amp;rsquo;t sure what I was looking to do next. Maybe something not directly related to Kubernetes, maybe some sort of SaaS. I interviewed with a bunch of companies, got rejected by some, opted not to go very far with others, and ultimately had 3 offers to choose from.
+My first was with a company that builds an open source &amp;ldquo;search engine database.</description>
+    </item>
+    
+    <item>
       <title>Playing Codenames remotely</title>
       <link>http://nbrubaker.com/horsepaste/</link>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
@@ -37,6 +47,18 @@ First and foremost, I seek to work at places and projects where I am a force mul
       <guid>http://nbrubaker.com/growing/</guid>
       <description>Growing as a software engineer I&amp;rsquo;ve recently taken on my first tech lead role, and I&amp;rsquo;ve been taking time to reflect on what that means. I think a huge part of being a tech lead is growing your team, and recently I got the question, &amp;ldquo;How do I know what subject areas are available? What should I do in order to get promoted into more senior positions?&amp;rdquo;
 My opinion is that a huge part of moving up in seniority is being able to deal with ambiguity.</description>
+    </item>
+    
+    <item>
+      <title>Nolan&#39;s Social Media Presence</title>
+      <link>http://nbrubaker.com/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://nbrubaker.com/social/</guid>
+      <description>Professional I write programs on GitHub.
+I&amp;rsquo;m on LinkedIn.
+Sometimes I might post on the fosstodon Mastodon instance.
+Personal Shitposting is on twitter or mastodon.social or cohost. Who knows what will stick.</description>
     </item>
     
   </channel>

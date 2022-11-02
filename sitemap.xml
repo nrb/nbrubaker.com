@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://nbrubaker.com/why-red-hat/</loc>
+    <lastmod>2022-08-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://nbrubaker.com/horsepaste/</loc>
     <lastmod>2020-03-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,6 +17,8 @@
     <priority>0</priority>
   </url><url>
     <loc>http://nbrubaker.com/categories/</loc>
+  </url><url>
+    <loc>http://nbrubaker.com/social/</loc>
   </url><url>
     <loc>http://nbrubaker.com/tags/</loc>
   </url>
